@@ -3,7 +3,7 @@
 I am an engineer who builds core infrastructure from scratch. Every project here is architected from the ground up—moving from raw system design directly into working production code.
 
 
-### Languages amd Tools
+Languages amd Tools
 
 <p align="left"> 
 <img alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
